@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, World! I'm Tien:
 ☆ Software Engineering graduate of Loyola University Chicago <br>☆ I create themed desktop apps to stay consistent<br>☆ I am currently teaching myself UI/UX design/research & 3D modelling<br>☆ My passions lie in environmentalism, design, cyber security, & fashion
 
 
